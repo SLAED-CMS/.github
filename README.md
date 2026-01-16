@@ -8,6 +8,39 @@ No frameworks, no magic — just predictable architecture, strong security, and 
 
 ---
 
+## ✨ Why LAAS?
+
+- 🔒 **Security-first** core architecture
+- ⚡ **Fast & lightweight** – no unnecessary complexity
+- 🧩 **Modular design** (core, modules, blocks)
+- 🧠 **Clean template structure** (no framework lock-in)
+- 🌍 **Multilingual support**
+- 🛠️ **Developer-friendly** (readable code, predictable behavior)
+
+---
+
+## 📦 Recommended Project
+
+### 👉 **LAAS CMS**
+➡️ **https://github.com/SLAED-CMS/LAAS**
+
+- PHP **8.4+**
+- MySQL / MariaDB
+- Actively maintained
+- **Recommended for new projects**
+
+---
+
+## 📚 Other Projects
+
+| Project | Status | Description |
+|-------|--------|-------------|
+| **LAAS** | ✅ Active | Modern CMS (Recommended) |
+| **SLAED CMS 6.3** | 🟡 Maintenance | Stable legacy version |
+| **SLAED CMS 6.2 Pro** | ⚫ Archived | Historical release |
+
+---
+
 ## ✨ Key Features
 
 - 🔒 **Security-first architecture**
